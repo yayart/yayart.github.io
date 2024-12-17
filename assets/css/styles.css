@@ -211,11 +211,12 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 350px;
+  width: 300px;
 }
 .home__blob {
   fill: var(--first-color);
   overflow: hidden;
+  width: 250%;
 }
 .home__blob-img {
   object-fit: cover;
